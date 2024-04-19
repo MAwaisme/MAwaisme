@@ -1,41 +1,43 @@
-﻿<!-- ![logo](github.com.shahid09pic) -->
-<h1 align="center">Hi 👋, I'm Awais Genius</h1>
+# Hi, I'm Jawad!
 
-<h3 align="center">A Passionate Backend Developer At Quecko</h3>
+Welcome to my GitHub profile. Here's a little about me:
 
-<img align="right" alt="coding" with="400" height="500" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif"/>
+- 👋 Hi, I’m @MAwaisme.
+- 👀 I’m interested in **React.js** and **Blockchain**.
+- 🌱 I’m currently working as a React and Web 3.0 developer, exploring the exciting world of decentralized applications.
+- ⚒️ I’m looking to collaborate on React.js and Web 3.0 projects, leveraging the power of modern web technologies.
+- 📫 You can reach me at **chudhryjawad@gmail.com**. Feel free to connect with me for any project or collaboration opportunities.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidkhan09&label=Profile%20views&color=0e75b6&style=flat" alt="shahidkhan09" /> </p>
+## About Me
 
-- 🔭 I’m currently working on **DOP {DATA_OWNERSHIP_PROTOCOLS}**
+I am a passionate developer with a focus on front-end technologies, especially React.js & web 3. I love building intuitive and interactive user interfaces that provide a seamless user experience. I also have a keen interest in blockchain technology and its potential to revolutionize various industries.
 
-- 🌱 I’m currently learning **Golang**
+## Projects
 
-- 👨‍💻 All of my projects are available at [https://shahid09.netlify.app/](https://shahid09.netlify.app/)
+Here are some of the projects I have worked on:
 
-- 📝 I regularly write articles on [https://shahid09.netlify.app/](https://shahid09.netlify.app/)
+- **Project 1**: [tDNS -tomi Domain Name System](https://tdns.network/): tDNS offers enhanced security and accessibility for blockchain naming, much like Ethereum Name Service (ENS). Unlike traditional DNS, which is vulnerable to hacks, ENS records are secured by the Ethereum blockchain, making them tamper-proof. Additionally, ENS simplifies interactions by enabling users to create ".tomi", and ".com" domains, providing a clear point of contact in the Ethereum network. Join us in embracing secure and user-friendly blockchain naming with tDNS.
+- **Project 2**: [DOP - Data Ownership Protocol](https://dop.org/): DOP utilizes zero-knowledge roll-ups, an off-chain protocol that moves computation and state storage off-chain to increase throughput on the Ethereum Mainnet while maintaining complete data ownership. By enabling transactions through zero-knowledge proofs, DOP reduces transaction costs and allows users to access their favorite apps on L1 while maintaining security, transparency and choice.
+- **Project 3**: [HYDT Protocol](https://app.hydtprotocol.com/HYDT/dashboard): Discover the next level of stablecoin with High Yield Dollar Protocol- a revolutionary BSC-based project offering innovative features and high returns, maintaining a steadfast 1:1 peg to the US dollar. Experience financial growth confidently, as HYDT holders harness the best of both worlds!
+- **Project 4**: [STABL33 PROTOCOL](https://staging.stabl33.com/): Decentralized Savings Protocol Based On Non-Depreciating Digital Assets, Paying The World's Highest Returns In USDC & DAI
+Feel free to explore my repositories to see more of my work.
+## Skills
 
-- 💬 Ask me about **React , Node**
+- Programming & Markup languages: **JavaScript**, **Html**,**Css**,**Scss**,**Typescript**
+- Front-end frameworks and libraries: **React js**, **Next js**, **Bootstrap**,  **Material Ui**
+- Web3 libraries: **Web3.js**,**Wegmi**,**Rainbow toolkit**,**ether js**...
+- Version control: **Git**
+- UI/UX design: Figma
+- Testing: React Testing Library
 
-- 📫 How to reach me **contattoshahidkhan@gmail.com**
+I am continuously learning and exploring new technologies to expand my skillset and stay up-to-date with the latest trends in the industry.
 
-- 📄 Know about my experiences [https://shahid09.netlify.app/](https://shahid09.netlify.app/)
+## Get in Touch
 
-- ⚡ Fun fact **I Have To Be The BESt ! 😍**
+- Email: **chudhryjawad@gmail.com**
+- LinkedIn: [Muhammad Awais](https://www.linkedin.com/in/muhammad-awais-it/)
+- Twitter: [Genius](Geni_Squad)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/imshahidkhanone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/imshahidkhanone" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-shahid-710710217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-shahid-710710217/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shahidkhanonline/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shahidkhanonline/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shahidsaleem09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shahidsaleem09/" height="30" width="40" /></a>
-</p>
+Feel free to reach out to me via email or connect with me on LinkedIn or Twitter. I'm always excited to discuss new ideas, collaborate on projects, or simply have a chat about technology.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidkhan09&show_icons=true&locale=en&layout=compact" alt="shahidkhan09" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahidkhan09&show_icons=true&locale=en" alt="shahidkhan09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahidkhan09&" alt="shahidkhan09" /></p>
+Thank you for visiting my GitHub profile!
