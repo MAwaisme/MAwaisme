@@ -34,7 +34,7 @@ I am continuously learning and exploring new technologies to expand my skillset 
 
 ## Get in Touch
 
-- Email: **chudhryjawad@gmail.com**
+- Email: **muhammad.awais.genius@gmail.com**
 - LinkedIn: [Muhammad Awais](https://www.linkedin.com/in/muhammad-awais-it/)
 - Twitter: [Genius](Geni_Squad)
 
