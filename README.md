@@ -1,4 +1,4 @@
-# Hi, I'm Jawad!
+# Hi, I'm Awais Genius!
 
 Welcome to my GitHub profile. Here's a little about me:
 
