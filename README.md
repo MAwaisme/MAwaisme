@@ -6,7 +6,7 @@ Welcome to my GitHub profile. Here's a little about me:
 - 👀 I’m interested in **React.js** and **Blockchain**.
 - 🌱 I’m currently working as a React and Web 3.0 developer, exploring the exciting world of decentralized applications.
 - ⚒️ I’m looking to collaborate on React.js and Web 3.0 projects, leveraging the power of modern web technologies.
-- 📫 You can reach me at **chudhryjawad@gmail.com**. Feel free to connect with me for any project or collaboration opportunities.
+- 📫 You can reach me at **muhammad.awais.genius@gmail.com**. Feel free to connect with me for any project or collaboration opportunities.
 
 ## About Me
 
