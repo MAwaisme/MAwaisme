@@ -1,43 +1,73 @@
-# Hi, I'm Awais Genius!
+Hi, I'm Muhammad Awais
 
-Welcome to my GitHub profile. Here's a little about me:
+Welcome to my GitHub profile.
 
-- 👋 Hi, I’m @MAwaisme.
-- 👀 I’m interested in **React.js** and **Blockchain**.
-- 🌱 I’m currently working as a React and Web 3.0 developer, exploring the exciting world of decentralized applications.
-- ⚒️ I’m looking to collaborate on React.js and Web 3.0 projects, leveraging the power of modern web technologies.
-- 📫 You can reach me at **muhammad.awais.genius@gmail.com**. Feel free to connect with me for any project or collaboration opportunities.
+About Me
 
-## About Me
+I’m a Frontend and Web3 Developer with over 3 years of professional experience building scalable, user-friendly, and decentralized web applications.
 
-I am a passionate developer with a focus on front-end technologies, especially React.js & web 3. I love building intuitive and interactive user interfaces that provide a seamless user experience. I also have a keen interest in blockchain technology and its potential to revolutionize various industries.
+I specialize in React.js, Next.js, TypeScript, Tailwind CSS, and SASS/SCSS, while also working extensively with blockchain technologies to develop NFT marketplaces, DeFi platforms, and smart contract integrations.
 
-## Projects
+I’m passionate about creating intuitive interfaces that combine modern web technologies with secure and decentralized Web3 solutions.
 
-Here are some of the projects I have worked on:
+What I Do
 
-- **Project 1**: [tDNS -tomi Domain Name System](https://tdns.network/): tDNS offers enhanced security and accessibility for blockchain naming, much like Ethereum Name Service (ENS). Unlike traditional DNS, which is vulnerable to hacks, ENS records are secured by the Ethereum blockchain, making them tamper-proof. Additionally, ENS simplifies interactions by enabling users to create ".tomi", and ".com" domains, providing a clear point of contact in the Ethereum network. Join us in embracing secure and user-friendly blockchain naming with tDNS.
-- **Project 2**: [DOP - Data Ownership Protocol](https://dop.org/): DOP utilizes zero-knowledge roll-ups, an off-chain protocol that moves computation and state storage off-chain to increase throughput on the Ethereum Mainnet while maintaining complete data ownership. By enabling transactions through zero-knowledge proofs, DOP reduces transaction costs and allows users to access their favorite apps on L1 while maintaining security, transparency and choice.
-- **Project 3**: [HYDT Protocol](https://app.hydtprotocol.com/HYDT/dashboard): Discover the next level of stablecoin with High Yield Dollar Protocol- a revolutionary BSC-based project offering innovative features and high returns, maintaining a steadfast 1:1 peg to the US dollar. Experience financial growth confidently, as HYDT holders harness the best of both worlds!
-- **Project 4**: [STABL33 PROTOCOL](https://staging.stabl33.com/): Decentralized Savings Protocol Based On Non-Depreciating Digital Assets, Paying The World's Highest Returns In USDC & DAI
-Feel free to explore my repositories to see more of my work.
-## Skills
+Frontend Development: Build responsive and high-performance applications using React.js, Next.js, Redux Toolkit, Tailwind CSS, and TypeScript.
 
-- Programming & Markup languages: **JavaScript**, **Html**,**Css**,**Scss**,**Typescript**
-- Front-end frameworks and libraries: **React js**, **Next js**, **Bootstrap**,  **Material Ui**
-- Web3 libraries: **Web3.js**,**Wegmi**,**Rainbow toolkit**,**ether js**...
-- Version control: **Git**
-- UI/UX design: Figma
-- Testing: React Testing Library
+Web3 & Blockchain Integration: Connect decentralized applications with Ethereum, Solana, and EVM-compatible chains using Web3.js, Ethers.js, Moralis SDK, RainbowKit, and Wagmi.
 
-I am continuously learning and exploring new technologies to expand my skillset and stay up-to-date with the latest trends in the industry.
+Smart Contract Interaction: Implement NFT minting, staking, token swaps, and DeFi functionalities directly in frontend apps.
 
-## Get in Touch
+Collaboration & Agile Workflows: Work closely with designers, backend developers, and clients to deliver seamless UI/UX and optimized code.
 
-- Email: **muhammad.awais.genius@gmail.com**
-- LinkedIn: [Muhammad Awais](https://www.linkedin.com/in/muhammad-awais-it/)
-- Twitter: [Genius](Geni_Squad)
+Continuous Learning: Explore new blockchain protocols, frontend frameworks, and Web3 tools to stay ahead in the rapidly evolving tech ecosystem.
 
-Feel free to reach out to me via email or connect with me on LinkedIn or Twitter. I'm always excited to discuss new ideas, collaborate on projects, or simply have a chat about technology.
+Skills & Technologies
 
-Thank you for visiting my GitHub profile!
+Languages & Markup:
+JavaScript, TypeScript, HTML, CSS, SCSS
+
+Frontend Frameworks:
+React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap, Material UI
+
+Web3 & Blockchain:
+Web3.js, Ethers.js, Moralis SDK, RainbowKit, Wagmi, NFT marketplaces, DeFi apps, Smart contract integration, Ethereum, Solana
+
+Backend & APIs:
+RESTful APIs, Firebase, Socket.IO
+
+Version Control & Tools:
+Git, GitHub, Figma, Jira, Trello
+
+Testing:
+React Testing Library
+
+Projects
+
+Tomi
+ – Built a Web3 ecosystem with staking tokens, NFT marketplace, and multichain wallet integration.
+
+Legion Network
+ – Developed a scalable admin panel for 7M+ users with real-time analytics, NFT/gameplay integration, and user management features.
+
+tDNS - tomi Domain Name System
+ – Blockchain-based domain naming system, secure ENS-style domains on Ethereum.
+
+DOP - Data Ownership Protocol
+ – Zero-knowledge rollup protocol ensuring full data ownership and cost-efficient Ethereum transactions.
+
+HYDT Protocol
+ – Stablecoin on BSC offering high-yield DeFi solutions with 1:1 US dollar peg.
+
+STABL33 Protocol
+ – Decentralized savings protocol with high returns in USDC & DAI.
+
+(Check out my repositories for more Web3, blockchain, and frontend projects)
+
+Get in Touch
+
+Email: muhammad.awais.genius@gmail.com
+LinkedIn: https://www.linkedin.com/in/muhammad-awais-it/
+GitHub: https://github.com/MAwaisme
+
+I’m open to collaborations, frontend & Web3 projects, and blockchain development opportunities. Feel free to reach out!
