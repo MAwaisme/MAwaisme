@@ -61,7 +61,7 @@ I love crafting intuitive **user interfaces** and combining modern web technolog
 ## 📫 Get in Touch
 - **Email:** muhammad.awais.genius@gmail.com  
 - **LinkedIn:** [Muhammad Awais](https://www.linkedin.com/in/muhammad-awais-it/)  
-- **GitHub:** [https://github.com/MAwaisme](https://github.com/MAwaisme)  
-- **Twitter:** [Genius](https://twitter.com/Geni_Squad)  
+- **GitHub:** [https://github.com/MAwaisme](https://github.com/MAwaisme)    
 
 I’m open to **collaborations, frontend & Web3 projects, and blockchain development opportunities**. Feel free to reach out!  
+
