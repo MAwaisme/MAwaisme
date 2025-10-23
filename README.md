@@ -1,73 +1,67 @@
-Hi, I'm Muhammad Awais
+# Hi, I'm Muhammad Awais 👋
 
-Welcome to my GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-awais-it/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MAwaisme) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammad.awais.genius@gmail.com) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Geni_Squad)
 
-About Me
+---
 
-I’m a Frontend and Web3 Developer with over 3 years of professional experience building scalable, user-friendly, and decentralized web applications.
+## 👨‍💻 About Me
+I’m a **Frontend & Web3 Developer** with over **3 years of experience** building **responsive, scalable, and decentralized applications**.  
+I specialize in **React.js, Next.js, TypeScript, Tailwind CSS, and SCSS**, while also integrating **blockchain technologies** for NFT marketplaces, DeFi apps, and smart contract functionalities.  
 
-I specialize in React.js, Next.js, TypeScript, Tailwind CSS, and SASS/SCSS, while also working extensively with blockchain technologies to develop NFT marketplaces, DeFi platforms, and smart contract integrations.
+I love crafting intuitive **user interfaces** and combining modern web technologies with **secure Web3 solutions**.
 
-I’m passionate about creating intuitive interfaces that combine modern web technologies with secure and decentralized Web3 solutions.
+---
 
-What I Do
+## 💼 What I Do
+- **Frontend Development:** React.js, Next.js, Redux Toolkit, TypeScript, Tailwind CSS  
+- **Web3 & Blockchain:** Web3.js, Ethers.js, Moralis SDK, RainbowKit, Wagmi, Smart Contract Integration, NFT & DeFi Apps  
+- **UI/UX Implementation:** Pixel-perfect, responsive, and user-friendly interfaces  
+- **Collaboration:** Agile workflows with designers and backend developers  
+- **Continuous Learning:** Exploring new frontend frameworks, blockchain protocols, and Web3 tools  
 
-Frontend Development: Build responsive and high-performance applications using React.js, Next.js, Redux Toolkit, Tailwind CSS, and TypeScript.
+---
 
-Web3 & Blockchain Integration: Connect decentralized applications with Ethereum, Solana, and EVM-compatible chains using Web3.js, Ethers.js, Moralis SDK, RainbowKit, and Wagmi.
+## 🛠 Skills & Technologies
+**Languages & Markup:** JavaScript, TypeScript, HTML, CSS, SCSS  
+**Frontend Frameworks:** React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap, Material UI  
+**Web3 & Blockchain:** Web3.js, Ethers.js, Moralis SDK, RainbowKit, Wagmi, NFT/DeFi integrations  
+**Backend & API:** RESTful APIs, Firebase, Socket.IO  
+**Version Control & Tools:** Git, GitHub, Figma, Jira, Trello  
+**Testing:** React Testing Library  
 
-Smart Contract Interaction: Implement NFT minting, staking, token swaps, and DeFi functionalities directly in frontend apps.
+---
 
-Collaboration & Agile Workflows: Work closely with designers, backend developers, and clients to deliver seamless UI/UX and optimized code.
+## 🚀 Projects
 
-Continuous Learning: Explore new blockchain protocols, frontend frameworks, and Web3 tools to stay ahead in the rapidly evolving tech ecosystem.
+### **[Tomi](https://tomi.com/about/intro-to-tomi/)**
+- Web3 ecosystem with **staking tokens, NFT marketplace, and multichain wallet integration**  
 
-Skills & Technologies
+### **[Legion Network](https://www.legionnetwork.io/)**
+- Scalable admin panel for **7M+ users** with real-time analytics, NFT/gameplay integration, and user management  
 
-Languages & Markup:
-JavaScript, TypeScript, HTML, CSS, SCSS
+### **[tDNS - tomi Domain Name System](https://tdns.network/)**
+- Blockchain-based domain naming system, secure ENS-style domains on Ethereum  
 
-Frontend Frameworks:
-React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap, Material UI
+### **[DOP - Data Ownership Protocol](https://dop.org/)**
+- Zero-knowledge rollup protocol ensuring **full data ownership** and efficient Ethereum transactions  
 
-Web3 & Blockchain:
-Web3.js, Ethers.js, Moralis SDK, RainbowKit, Wagmi, NFT marketplaces, DeFi apps, Smart contract integration, Ethereum, Solana
+### **[HYDT Protocol](https://app.hydtprotocol.com/HYDT/dashboard)**
+- Stablecoin on BSC offering high-yield DeFi solutions with **1:1 US dollar peg**  
 
-Backend & APIs:
-RESTful APIs, Firebase, Socket.IO
+### **[STABL33 Protocol](https://staging.stabl33.com/)**
+- Decentralized savings protocol with high returns in **USDC & DAI**  
 
-Version Control & Tools:
-Git, GitHub, Figma, Jira, Trello
+*(Check out my repositories for more frontend and blockchain projects)*  
 
-Testing:
-React Testing Library
+---
 
-Projects
+## 📫 Get in Touch
+- **Email:** muhammad.awais.genius@gmail.com  
+- **LinkedIn:** [Muhammad Awais](https://www.linkedin.com/in/muhammad-awais-it/)  
+- **GitHub:** [https://github.com/MAwaisme](https://github.com/MAwaisme)  
+- **Twitter:** [Genius](https://twitter.com/Geni_Squad)  
 
-Tomi
- – Built a Web3 ecosystem with staking tokens, NFT marketplace, and multichain wallet integration.
-
-Legion Network
- – Developed a scalable admin panel for 7M+ users with real-time analytics, NFT/gameplay integration, and user management features.
-
-tDNS - tomi Domain Name System
- – Blockchain-based domain naming system, secure ENS-style domains on Ethereum.
-
-DOP - Data Ownership Protocol
- – Zero-knowledge rollup protocol ensuring full data ownership and cost-efficient Ethereum transactions.
-
-HYDT Protocol
- – Stablecoin on BSC offering high-yield DeFi solutions with 1:1 US dollar peg.
-
-STABL33 Protocol
- – Decentralized savings protocol with high returns in USDC & DAI.
-
-(Check out my repositories for more Web3, blockchain, and frontend projects)
-
-Get in Touch
-
-Email: muhammad.awais.genius@gmail.com
-LinkedIn: https://www.linkedin.com/in/muhammad-awais-it/
-GitHub: https://github.com/MAwaisme
-
-I’m open to collaborations, frontend & Web3 projects, and blockchain development opportunities. Feel free to reach out!
+I’m open to **collaborations, frontend & Web3 projects, and blockchain development opportunities**. Feel free to reach out!  
