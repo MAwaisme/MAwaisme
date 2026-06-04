@@ -15,7 +15,7 @@ React • Next.js • TypeScript • Blockchain
 
 I’m a **Frontend & Web3 Developer** with 3+ years of experience building **scalable, high-performance, and decentralized applications**.
 
-I specialize in **React.js, Next.js, Web3, TypeScript, and Tailwind CSS**, with strong experience integrating **blockchain technologies** including NFT marketplaces, DeFi platforms, smart contract interactions, and multichain wallet systems.
+I specialize in **React.js, Next.js, TypeScript, and Tailwind CSS**, with strong experience integrating **blockchain technologies** including NFT marketplaces, DeFi platforms, smart contract interactions, and multichain wallet systems.
 
 I focus on writing **clean, maintainable code** and delivering **intuitive, pixel-perfect user interfaces** powered by secure Web3 infrastructure.
 
@@ -34,28 +34,28 @@ I focus on writing **clean, maintainable code** and delivering **intuitive, pixe
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Languages  
 JavaScript • TypeScript • HTML5 • CSS3 • SCSS  
 
-### ⚛️ Frontend
+### ⚛️ Frontend  
 React.js • Next.js • Redux Toolkit • Tailwind CSS • Bootstrap • Material UI  
 
-### 🔗 Web3
+### 🔗 Web3  
 Ethers.js • Web3.js • Wagmi • RainbowKit • Moralis SDK  
 Smart Contract Integration • NFT Platforms • DeFi Applications  
 
-### 🔌 Backend & Tools
+### 🔌 Backend & Tools  
 REST APIs • Firebase • Socket.IO  
 Git • GitHub • Figma • Jira • Trello  
 
-### 🧪 Testing
+### 🧪 Testing  
 React Testing Library  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [Tomi](https://tomi.com/about/intro-to-tomi/)
+### 🔹 [Tomi](https://tomi.com/about/intro-to-tomi/)  
 Web3 ecosystem featuring:
 - Token staking system  
 - NFT marketplace  
@@ -63,36 +63,52 @@ Web3 ecosystem featuring:
 
 ---
 
-### 🔹 [Legion Network](https://www.legionnetwork.io/)
-- Scalable admin panel serving **7M+ users**
-- Real-time analytics dashboard
+### 🔹 [Legion Network](https://www.legionnetwork.io/)  
+- Scalable admin panel serving **7M+ users**  
+- Real-time analytics dashboard  
 - NFT & gaming ecosystem integrations  
 
 ---
 
-### 🔹 [tDNS – Tomi Domain Name System](https://tdns.network/)
+### 🔹 [tDNS – Tomi Domain Name System](https://tdns.network/)  
 - Blockchain-based domain naming system  
 - ENS-style decentralized domains on Ethereum  
 
 ---
 
-### 🔹 [DOP – Data Ownership Protocol](https://dop.org/)
+### 🔹 [DOP – Data Ownership Protocol](https://dop.org/)  
 - Zero-knowledge rollup protocol  
 - Privacy-focused Ethereum transactions  
 - On-chain data ownership infrastructure  
 
 ---
 
-### 🔹 [HYDT Protocol](https://app.hydtprotocol.com/HYDT/dashboard)
+### 🔹 [HYDT Protocol](https://app.hydtprotocol.com/HYDT/dashboard)  
 - Stablecoin protocol on BSC  
 - 1:1 USD peg  
 - High-yield DeFi integrations  
 
 ---
 
-### 🔹 [STABL33 Protocol](https://staging.stabl33.com/)
+### 🔹 [STABL33 Protocol](https://staging.stabl33.com/)  
 - Decentralized savings protocol  
 - Yield optimization using USDC & DAI  
+
+---
+
+### 🔹 **[joni.ai](https://joni.ai)**  
+AI-powered platform built for intelligent automation and user-friendly productivity tools.  
+- Modern UI with responsive design  
+- Integrated AI workflows and smart features  
+- Built with performance and scalability in mind  
+
+---
+
+### 🔹 **[Crypto Basic App](https://app.thecryptobasic.com/)**  
+A lightweight crypto dashboard and analytics platform.  
+- Real-time crypto price tracking  
+- Clean UI/UX for quick insights  
+- Performance optimized for web usage  
 
 ---
 
@@ -111,4 +127,4 @@ I’m open to:
 
 ---
 
-⭐️ *Check out my repositories to see more frontend and Web3 projects!*
+⭐️ *Explore my repositories for more frontend and Web3 builds!*  
