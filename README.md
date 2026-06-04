@@ -15,7 +15,7 @@ React • Next.js • TypeScript • Blockchain
 
 I’m a **Frontend & Web3 Developer** with 3+ years of experience building **scalable, high-performance, and decentralized applications**.
 
-I specialize in **React.js, Next.js, TypeScript, and Tailwind CSS**, with strong experience integrating **blockchain technologies** including NFT marketplaces, DeFi platforms, smart contract interactions, and multichain wallet systems.
+I specialize in **React.js, Next.js, Web3, TypeScript, and Tailwind CSS**, with strong experience integrating **blockchain technologies** including NFT marketplaces, DeFi platforms, smart contract interactions, and multichain wallet systems.
 
 I focus on writing **clean, maintainable code** and delivering **intuitive, pixel-perfect user interfaces** powered by secure Web3 infrastructure.
 
